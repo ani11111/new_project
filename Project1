@@ -34,5 +34,6 @@ public class Project1 {
         System.out.println("bbbbbbbb");
         tagName = driver.findElement(By.id("email")).getTagName();
         System.out.println(tagName);
+	System.out.println("ccccccccc");
     }
 }
